@@ -1,8 +1,3 @@
-Here’s a clean, professional **README.md** for your To-Do List Manager with Timers project. I’ve included all important information, installation steps, usage instructions, dependencies, and optional troubleshooting tips.
-
----
-
-````markdown
 # To-Do List Manager with Timers
 
 A simple **Python GUI application** for managing tasks with alarms and reminders.  
@@ -48,7 +43,7 @@ Built with **Tkinter** and **tkcalendar**, it allows users to add tasks with a s
 
    ```bash
    pip install tkcalendar
-````
+
 
 > If pip is not recognized, use:
 
